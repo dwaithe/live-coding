@@ -4,7 +4,7 @@ This is a repository containing Jupyter lab notebooks demonstrating how to code 
 ## How to Solve a Maze:
 
 In this notebook and associated video I do some live-coding in Python to describe and demonstrate how to solve a maze rendered in graphical form. In this video I implement a simple breadth-first graph searching algorithm to find the shortest route through a maze, as well as show simple thresholding and image plotting. The notebook can be found in the directory 'how-to-solve-a-maze', or through this link:    
-[How to Solve a Maze - notebook](https://github.com/dwaithe/live-coding/blob/main/how-to-solve-a-maze/How-to-solve-a-maze.ipynb.).  
+[How to Solve a Maze - notebook](https://github.com/dwaithe/live-coding/blob/main/how-to-solve-a-maze/How-to-solve-a-maze.ipynb).  
 [![How to Solve a Maze - live coding - Python Video](http://img.youtube.com/vi/1KHgCRs-x1M/0.jpg)](https://www.youtube.com/watch?v=GFt2XhUZQy0 "How to Solve a Maze - live coding - Python - image analysis"). 
 
 ## Object colocalization:
