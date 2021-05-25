@@ -18,4 +18,4 @@ In this notebook and assoicated video I demonstrate how to go about performing a
 In this notebook and assoicated video I demonstrate how to go about applying a 2-D maxima algorithm to wide-field and fluorescence microscopy derived images. axima finding (or peak finding) is a technique for finding the locations of intensity maxima within a data signal. To understand more about theory, please visit the associated video tutorial which goes through the theory and functioning of the algorithmic approach also: https://youtu.be/8YEPRf2C8Dw
 The code created from this practical is here:
 [Find Maxima - notebook](https://github.com/dwaithe/live-coding/blob/main/find-maxima/live-coding-find-maxima.ipynb).  
-[![Find Maxima 2D](https://img.youtu.be/9wvPsEzRWzI/0.jpg)](https://youtu.be/9wvPsEzRWzI "Find Maxima 2D - live coding - bioimage analysis"). 
+[![Find Maxima 2D](http://img.youtube.com/9wvPsEzRWzI/0.jpg)](https://youtu.be/9wvPsEzRWzI "Find Maxima 2D - live coding - bioimage analysis"). 
