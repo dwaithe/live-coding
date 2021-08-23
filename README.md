@@ -15,7 +15,15 @@ In this notebook and assoicated video I demonstrate how to go about performing a
 
 ## Find Maxima 2-D:
 
-In this notebook and assoicated video I demonstrate how to go about applying a 2-D maxima algorithm to wide-field and fluorescence microscopy derived images. axima finding (or peak finding) is a technique for finding the locations of intensity maxima within a data signal. To understand more about theory, please visit the associated video tutorial which goes through the theory and functioning of the algorithmic approach also: https://youtu.be/8YEPRf2C8Dw
+In this notebook and associated video I demonstrate how to go about applying a 2-D maxima algorithm to wide-field and fluorescence microscopy derived images. axima finding (or peak finding) is a technique for finding the locations of intensity maxima within a data signal. To understand more about theory, please visit the associated video tutorial which goes through the theory and functioning of the algorithmic approach also: https://youtu.be/8YEPRf2C8Dw
 The code created from this practical is here:
 [Find Maxima - notebook](https://github.com/dwaithe/live-coding/blob/main/find-maxima/live-coding-find-maxima.ipynb).  
 [![Find Maxima 2D](http://img.youtube.com/vi/9wvPsEzRWzI/0.jpg)](https://youtu.be/9wvPsEzRWzI "Find Maxima 2D - live coding - bioimage analysis"). 
+
+
+## Microscopy Figures - Creating linear LUT and merging microscopy images in Python
+
+Python and the Matplotlib library are great for creating figures. In microscopy however we frequently use linear LUT with a single colour tone, which Matplotlib doesn't support very well. In this notebook I show you how to produce nice linear LUT and also how to merge these images to create multi-channel comparisons. To see a video explaining this notebook, please see:https://youtu.be/dBXUqeXW18c
+The code created from this practical is here:
+[Microscopy Figures - notebook](https://github.com/dwaithe/live-coding/blob/main/figure-plotting/Figure_plotting.ipynb)
+[![Microscopy Figures](http://img.youtube.com/vi/dBXUqeXW18c/0.jpg)](https://youtu.be/dBXUqeXW18c "Microscopy Figures - live coding - Python - bioimage analysis"). 
