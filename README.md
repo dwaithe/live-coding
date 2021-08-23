@@ -24,6 +24,6 @@ The code created from this practical is here:
 ## Microscopy Figures - Creating linear LUT and merging microscopy images in Python
 
 Python and the Matplotlib library are great for creating figures. In microscopy however we frequently use linear LUT with a single colour tone, which Matplotlib doesn't support very well. In this notebook I show you how to produce nice linear LUT and also how to merge these images to create multi-channel comparisons. To see a video explaining this notebook, please see:https://youtu.be/dBXUqeXW18c
-The code created from this practical is here:
-[Microscopy Figures - notebook](https://github.com/dwaithe/live-coding/blob/main/figure-plotting/Figure_plotting.ipynb)
+The code created from this practical is here:  
+[Microscopy Figures - notebook](https://github.com/dwaithe/live-coding/blob/main/figure-plotting/Figure_plotting.ipynb)  
 [![Microscopy Figures](http://img.youtube.com/vi/dBXUqeXW18c/0.jpg)](https://youtu.be/dBXUqeXW18c "Microscopy Figures - live coding - Python - bioimage analysis"). 
